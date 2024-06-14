@@ -1,2 +1,3 @@
-# dicionarios_em_python
-aula sobre dicionários DIO
+# Trabalhando dicionarios
+
+usando melhores metodos para banco de dados
